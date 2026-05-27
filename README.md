@@ -8,7 +8,7 @@ The goal is to investigare systematic differences in ellipticities, projected ax
 
 ## Surveys Used
 
-- Dark Energy Survey (DES DR2)
+- Dark Energy Survey DR2
 - DES Year 6 Gold
 - DES Year 3 Metacal
 - DESI Legacy Survey DR10
